@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrishtiRajai
+- 👋 Hi, I’m Drishti Rajai
 - 👀 I’m interested in Web develepment, Software Engineering and Computer Networks
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me : drishtirajai7@gmail.com
