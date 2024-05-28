@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Drishti Rajai
-- 👀 I’m interested in Web develepment, Software Engineering and Computer Networks
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Web Development with WordPress
+- 🌱 I’m currently learning React JS, WordPress Gutenberg custom blocks and theme development
 - 📫 How to reach me : drishtirajai7@gmail.com
 
 <!---
