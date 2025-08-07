@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Drishti Rajai
-- 👀 I’m interested in Web Development with WordPress
-- 🌱 I’m currently learning React JS, WordPress Gutenberg custom blocks and theme development
-- 📫 How to reach me : drishtirajai7@gmail.com
+Hi there, I'm Drishti 👋
+
+🔧 WordPress developer with hands-on experience in building themes, plugins, and full-scale solutions.  
+💼 Internships + freelance projects have taught me to build scalable, production-ready tools.
+
+🧠 Though I’ve just begun pushing to GitHub publicly, my work reflects deep WP understanding.  
+🌟 Currently contributing to open-source and learning in public!
+
+📌 Check out my personal blog unscrambled.me (my first WP project ever!)
+📫 Let’s connect: drishtirajai7@gmail.com
 
 <!---
 DrishtiRajai/DrishtiRajai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
