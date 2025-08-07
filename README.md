@@ -9,6 +9,9 @@ Hi there, I'm Drishti 👋
 📌 Check out my personal blog unscrambled.me (my first WP project ever!)
 📫 Let’s connect: drishtirajai7@gmail.com
 
+📌 Check out my [WordPress Developer Showcase]([https://github.com/yourusername/WordPress-Developer-Showcase](https://github.com/DrishtiRajai/Wordpress-Developer-Showcase))  
+🚀 Now contributing to open-source and sharing past project work!
+
 <!---
 DrishtiRajai/DrishtiRajai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
